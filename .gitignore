@@ -37,6 +37,9 @@ out/
 .tsbuildinfo
 
 # Replit specific
+.replit
 .replit/
 .breakpoints
 replit.nix
+
+.local/

@@ -1,0 +1,79 @@
+Portfolio Projects I'd Want to See
+
+End-to-End RAG Implementation
+
+A complete GitHub repository showcasing his RAG system mentioned at Troon Golf
+Documentation of architecture decisions, vector database selection, embedding strategies
+Performance metrics and evaluation methodology
+
+
+MLOps Pipeline Example
+
+CI/CD workflow for ML models with automated testing
+Infrastructure-as-code (Terraform) configurations for reproducible deployments
+Monitoring setup with observability tools
+
+
+Large Language Model Fine-tuning
+
+Example of adapter-based or full fine-tuning on domain-specific data
+Prompt engineering experiments with evaluation metrics
+Cost optimization strategies
+
+
+Data Engineering for AI Workloads
+
+Scalable data processing pipeline handling large datasets
+Data quality monitoring and validation framework
+Schema evolution handling
+
+
+Model Serving Architecture
+
+API design for model inference with proper versioning
+Scaling solutions for high-traffic applications
+Caching and performance optimization examples
+
+ZACK MALONE
+zdmalone1@gmail.com | github.com/zmalone91 | (480) 388-2669 | linkedin.com/in/zacharydmalone
+SENIOR AI/ML ENGINEER
+Architecture-focused engineer with 9+ years experience productionizing AI systems across healthcare and finance. Expert in LLM deployment, MLOps infrastructure, and scalable data pipelines. Passionate about building responsible AI solutions that deliver measurable business outcomes.
+TECHNICAL EXPERTISE
+LLM Engineering: Fine-tuning, RAG architectures, prompt engineering, evaluation frameworks, efficient inference
+ML Infrastructure: CI/CD for ML, feature stores, model monitoring, distributed training
+Data Engineering: Streaming pipelines, data quality, schema evolution, warehouse optimization
+Cloud & DevOps: Kubernetes orchestration, infrastructure-as-code, observability, cost optimization
+PROFESSIONAL EXPERIENCE
+AI/ML Engineering Lead | Troon Golf, Scottsdale, AZ | 04/2024 – Present
+Architected and deployed a RAG solution for automated account mappings using custom fine-tuned LLaMA2-7B models with BERT embeddings, reducing manual efforts by 70%
+Designed high-availability inference API serving 300+ concurrent users with 99.9% uptime and p95 latency under 200ms
+Implemented data lineage tracking for ML systems, enabling automated compliance reporting and model governance
+Led migration from legacy batch ETL to streaming architecture using Azure Event Hubs, reducing data latency from hours to minutes
+Senior Data Scientist & MLOps Engineer | Amino Health, San Francisco, CA | 03/2022 – 09/2023
+Built production ML platform supporting 15+ models with automated retraining, monitoring, and A/B testing capabilities
+Scaled healthcare recommendation system to process 500M+ claims daily, reducing employer medical spend by 15%
+Architected modular ML pipeline in AWS SageMaker with Dagster workflows and dbt transformations, cutting deployment time by 50%
+Implemented model explainability framework using SHAP and custom visualizations, increasing stakeholder trust in AI recommendations
+Data Scientist & ML Engineer | Centene, St. Louis, MO | 09/2020 – 02/2022
+Developed NLP system using BERT transformers for document processing, extracting 23 key entities with 94% accuracy
+Created data validation framework detecting anomalies in 30TB+ of healthcare data, preventing model degradation
+Reduced infrastructure costs 35% by optimizing training jobs and implementing GPU sharing for ML workloads
+Mentored junior engineers through hands-on workshops and code reviews, focusing on Python best practices and ML fundamentals
+Data Science & Analytics Roles | Blue Cross Blue Shield of Arizona | 04/2015 – 08/2020
+Built patient risk prediction system using ensemble methods, reducing hospital readmissions by 20%
+Automated claims analysis pipeline identifying $250K in provider billing errors eligible for reimbursement
+Developed interactive dashboards for executive leadership to monitor key healthcare metrics
+OPEN SOURCE & COMMUNITY
+Contributor: Hugging Face Transformers – Implemented optimizations for RAG retrieval pipeline (2024)
+Creator: SimpleMLOps – Open-source toolkit for ML deployment on Kubernetes (500+ GitHub stars)
+Speaker: "Scaling LLM Applications in Production" – MLOps Summit 2024
+EDUCATION & CONTINUOUS LEARNING
+AWS Machine Learning Specialty Certification (2023)
+Microsoft Azure AI Engineer Associate (2023)
+DeepLearning.AI LLM Engineering Specialization (2023)
+Bachelor of Science in Economics – Arizona State University, W.P. Carey School of Business (2013)
+PORTFOLIO HIGHLIGHTS (github.com/zmalone91)
+LLM-RAG-Framework: End-to-end RAG system with vector DB integration and evaluation suite
+MLOps-Platform: Kubernetes-based ML platform with automated testing and monitoring
+Efficient-Transformers: Benchmarks and optimization techniques for production transformer models
+Healthcare-NLP: De-identified medical text processing pipeline with HIPAA compliance
